@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="txt_maestro">Estatus del Alumno</string>
+</resources>

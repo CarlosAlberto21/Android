@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReproduccionDeAudio</string>
+    <string name="sound">AUDIO CON SOUNDPOOL</string>
+    <string name="media">AUDIO CON MEDIAPLAYER</string>
+</resources>

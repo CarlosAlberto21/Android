@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parametros</string>
+    <string name="name">Dato</string>
+    <string name="enviar">Enviar</string>
+    <string name="atras">atras</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharePreference</string>
+    <string name="correo">Email</string>
+    <string name="btn">Enviar</string>
+</resources>

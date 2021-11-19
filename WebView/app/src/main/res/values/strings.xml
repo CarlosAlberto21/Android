@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="url_name">URL</string>
+    <string name="enviar_url">Enviar</string>
+    <string name="cerrar">Cerrar</string>
+
+</resources>
